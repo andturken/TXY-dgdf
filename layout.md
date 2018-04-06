@@ -6,3 +6,5 @@ figures/don_quixote
 mihhj44tdmo.html
 cdh8saj3kh8.md
 mu1bhdtcnn.html
+figures/Johann_Sebastian_Bach_1746
+ok7q0cb01qg.html
