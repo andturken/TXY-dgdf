@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Johann_Sebastian_Bach_1746/Johann_Sebastian_Bach_1746.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/170837/articles/296640/master/file/figures/Johann_Sebastian_Bach_1746/Johann_Sebastian_Bach_1746.png"
