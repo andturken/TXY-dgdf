@@ -2,3 +2,5 @@ untitled.md
 pn6nrf9s6ao.html
 figures/The_Great_Wave_off_Kanagawa_rl
 vb1vltm6f2g.html
+figures/don_quixote
+mihhj44tdmo.html
